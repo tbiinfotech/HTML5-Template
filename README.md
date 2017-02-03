@@ -1,10 +1,10 @@
 
-FEATURES
---------------
+Features
+=======
 
---Your favorite text editor.
---An HTML5 compliant browser.
---A webserver on which to host the sample.
+- Your favorite text editor.
+- An HTML5 compliant browser.
+- A webserver on which to host the sample.
 
 Installation
 ---------------
