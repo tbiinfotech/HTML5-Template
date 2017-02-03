@@ -1,0 +1,14 @@
+
+Instructions to creating a new Template:
+-----------------------------------------
+--Create a .html in the /html5 directory
+--Use the following template (also a sample in /html5/index.html):
+
+<title><!-- Title of your template, note this appears in the document title prefixed with "HTML5" --></title>
+<style>/** any custom styles live here **/</style>
+<article><!-- any markup here --></article>
+<script>
+// your JavaScript
+</script>
+
+--Any additional JavaScript libraries should be stored in the /js directory, assets, such as video and audio live in the /assets directory.
